@@ -39,7 +39,7 @@ def error(update, context):
 
 def puteada(update, context):
     """putea."""
-    update.message.reply_text('La concha de tu hermana')
+    update.message.reply_text('Forro!')
 
 
 def main():
